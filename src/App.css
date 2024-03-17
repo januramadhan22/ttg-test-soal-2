@@ -1,0 +1,7 @@
+.actions button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 8px;
+  background-color: blueviolet;
+  cursor: pointer;
+}
